@@ -42,6 +42,6 @@
     "eslint-plugin-react-refresh": "^0.4.7",
     "react-router-dom": "^6.25.1",
     "vite": "^5.3.4",
-    "webpack": "^5.93.0"
+    "webpack": "^5.94.0"
   }
 }
